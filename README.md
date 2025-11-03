@@ -15,11 +15,11 @@
 <div align="center">
   <h3 align="center">📊 My GitHub Stats & Trophies 🏆</h3>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR-USERNAME&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=emreysrs&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreysrs&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
   </p>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&row=1&column=6" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=emreysrs&theme=tokyonight&row=1&column=6" alt="Trophies" />
   </p>
 </div>
 
