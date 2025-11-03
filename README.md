@@ -1,12 +1,12 @@
 <div align="center">
   <h3>
-    Hi there! 👋 I'm [Optional: Your Name]
+    Hi there! 👋 I'm Emre
   </h3>
   <p>
     A passionate software developer building robust systems with C# and bringing data to life with Python.
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=emreysrs&color=blueviolet" alt="Profile Views"/>
   </p>
 </div>
 
@@ -61,7 +61,7 @@
 <div align="center">
   <h3 align="center">📈 My Activity Graph 📈</h3>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyonight&hide_border=true&line=5A9E64&point=FFFFFF" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=emreysrs&theme=tokyonight&hide_border=true&line=5A9E64&point=FFFFFF" alt="Activity Graph" />
   </p>
 </div>
 
@@ -89,10 +89,10 @@
 <div align="center">
   <h3 align="center">📬 Connect With Me 📬</h3>
   <p align="center">
-    <a href="https://linkedin.com/in/#YOUR-LINKEDIN-PROFILE" target="_blank">
+    <a href="www.linkedin.com/in/emreysrs" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:#YOUR-EMAIL-ADDRESS">
+    <a href="mailto:#emreyasar2006@outlook.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
