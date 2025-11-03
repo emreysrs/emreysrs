@@ -48,10 +48,10 @@
   <h3 align="center">⭐ My Featured Projects ⭐</h3>
   <p align="center">
     <a href="https://github.com/YOUR-USERNAME/REPO-NAME-1">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=REPO-NAME-1&theme=tokyonight&show_owner=true" />
+      <img align="center" src="https://github.com/emreysrs/hang-man-game&repo=REPO-NAME-1&theme=tokyonight&show_owner=true" />
     </a>
     <a href="https://github.com/YOUR-USERNAME/REPO-NAME-2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=REPO-NAME-2&theme=tokyonight&show_owner=true" />
+      <img align="center" src="https://github.com/emreysrs/My-Coding-Library&repo=REPO-NAME-2&theme=tokyonight&show_owner=true" />
     </a>
   </p>
 </div>
